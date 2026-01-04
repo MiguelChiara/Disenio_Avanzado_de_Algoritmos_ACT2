@@ -7,7 +7,7 @@ python main.py ./instances/instanceN10.json
 ### Planificación multiobjetivo de rutas de drones en entornos urbanos
 Usando los algoritmos de:
 - Backtracking / Branch-and-Bound con poda guiada por cotas heurísticas. (branch_and_bound.py)
-- Algoritmo geométrico basado en visibilidad e intersección de segmentos para generar (geo_heuristic.py)
+- Algoritmo geométrico basado en visibilidad e intersección de segmentos (geo_heuristic.py)
 - Metaheurística aleatorizada (nsga2.py)
 
 Una vez ejecutado el script, se generará una grafica por consola por ejemplo usando el archivo instanceN10.json:
