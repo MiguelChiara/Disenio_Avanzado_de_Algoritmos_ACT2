@@ -1,0 +1,18 @@
+{
+  "hub": 0,
+  "nodes": [
+    { "id": 0, "x": 0, "y": 0, "type": "hub" },
+    { "id": 1, "x": 2, "y": 1, "type": "delivery" },
+    { "id": 2, "x": 4, "y": 1, "type": "delivery" },
+    { "id": 3, "x": 4, "y": 4, "type": "delivery" },
+    { "id": 4, "x": 1, "y": 4, "type": "delivery" },
+    { "id": 8, "x": 2, "y": 2, "type": "recharge" }
+  ],
+  "no_fly_zones": [
+    [[6,6], [8,6], [8,8], [6,8]]
+  ],
+  "battery": {
+    "capacity": 8.0,
+    "consumption_per_km": 1.0
+  }
+}
