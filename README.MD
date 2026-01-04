@@ -50,7 +50,7 @@ N= 5  tiempo=0.004719s
 ````
 
 ### Help
-Existe tambien una funcion help y constrol de algunos errores:
+Existe tambien una funcion help y control de algunos errores:
 ````shell
 python main.py ./instances/instanceN10.txt
 El archivo de instancia debe ser un archivo .json
